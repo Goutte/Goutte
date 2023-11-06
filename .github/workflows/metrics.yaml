@@ -40,7 +40,7 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_calendar: yes
+          plugin_calendar: no
           plugin_calendar_limit: 1
           plugin_chess: no
           plugin_chess_platform: lichess.org
@@ -95,17 +95,17 @@ jobs:
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user:
-          plugin_stargazers: yes
+          plugin_stargazers: no
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
-          plugin_starlists: yes
+          plugin_starlists: no
           plugin_starlists_limit: 2
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 2
           plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_topics: yes
+          plugin_topics: no
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
