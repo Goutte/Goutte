@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Some Metrics
 
-![Metrics](https://github.com/Goutte/Goutte/blob/master/github-metrics.svg)
+![Metrics](https://github.com/Goutte/Goutte/blob/main/github-metrics.svg)
 
 > _Note_: I produce code across many software forges, and some of them are private.
 > The metrics above look only at Github, which I'm slowly leaving altogether.
